@@ -11,5 +11,5 @@
 	<strong>© 2077 GayHub, Inc.</strong>
 </p>
 <p align="center">
-	<strong>How to reach me: <a href="https://t.me/atndko">My Telegram</a></strong>
+	<strong>How to reach me: <a href="https://t.me/OwnerDiedddd">My Telegram</a></strong>
 </p>
