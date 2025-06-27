@@ -1,6 +1,6 @@
 ## 👋 Hello from 0wnerd1ed, you can call me Neptune too :)
 
-|  ![0wnerDied's Guthub Stats](https://github-readme-stats.vercel.app/api?username=0wnerdied&show_icons=true&hide_border=true&bg_color=ffffff) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=0wnerdied&layout=compact&hide_border=true) |
+|  ![0wnerDied's Guthub Stats](https://github-readme-stats.vercel.app/api?username=0wnerdied&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=0wnerdied&layout=compact&hide_border=true) |
 | ------------- | ------------- |
 
 ## 💻 Working Environments
